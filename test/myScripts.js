@@ -1,7 +1,11 @@
-for (statement 1; statement 2; statement 3)
-{
+var i;
+for (i = 0; i < ; i++) {
   
 }
+
+
+
+
 
 while (condition)
 {
